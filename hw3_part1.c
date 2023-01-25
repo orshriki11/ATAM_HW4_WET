@@ -24,6 +24,7 @@
 #define SHT_SYMTAB 2 //symtab Sh Type
 #define SHT_DYNSYM 0x0b //dymsym Sh Type
 #define STB_GLOBAL 1 //Global Bind
+//for test
 
 
 /* symbol_name		- The symbol (maybe function) we need to search for.
