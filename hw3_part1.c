@@ -262,6 +262,7 @@ unsigned long find_symbol(char* symbol_name, char* exe_file_name, int* error_val
         }
     }
 
+    //wowowow
 
 	return 0;
 }
